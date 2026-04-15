@@ -6,4 +6,4 @@
 
 результат работы плейбука на веб-а и веб-б
 <img width="1515" height="1212" alt="b" src="https://github.com/user-attachments/assets/0fe83dc6-c63e-4447-84b2-854c18586e07" />
-<img width="1482" height="1138" alt="a" src="https://github.com/user-attachments/assets/f721c2de-4fc1-451e-a21c-69e5fe000584" />
+<img width="1576" height="1283" alt="aaa" src="https://github.com/user-attachments/assets/40cb341a-ec1b-4a6c-833d-c5ad7f5a5a7c" />
